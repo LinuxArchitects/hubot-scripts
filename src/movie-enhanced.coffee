@@ -9,7 +9,6 @@
 #
 # Commands:
 #   English :
-# ex  hubot is it a movie iron-man-3
 # ex  hubot is it a movie iron man 3
 #     hubot search < movie or tvshow  name >
 #     hubot search movie < movie or tvshow name >
