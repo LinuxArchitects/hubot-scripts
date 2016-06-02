@@ -1,6 +1,20 @@
 # Hubot Twitter Adapter
 
 ## Description
+>
+>/                             \
+>//\              |      Extracting input for    |
+>////\    _____    |   self-replication process   |
+>//////\  /_____\   \                             / 
+>======= |[^_/\_]|   /----------------------------  
+>|   | _|___@@__|__                                
+>+===+/  ///     \_\                               
+>| |_\ /// HUBOT/\\                             
+>|___/\//      /  \\                            
+>\      /   +---+                            
+>\____/    |   |                            
+>| //|    +===+                            
+>\//      |xx|  
 
 This is the [OMDB](http://www.omdbapi.com) adapter for hubot that allows you to
 send an query to search for a movie of tvshow information.
