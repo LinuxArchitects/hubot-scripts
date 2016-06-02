@@ -12,31 +12,35 @@ send an query to search for a movie of tvshow information.
 ### Note if running on Heroku
 None
 ## Usage
-   English :
- replace hubot with the name of yout bot and the movie-name with your media
+  English :
 
- ex: hubot **is it a** movie iron-man-3
-     hubot **search** < movie or tvshow  name >
-     hubot **search** movie* < movie or tvshow name >
-     hubot **is it a movie** < movie  or tvshow name >
+  replace hubot with the name of yout bot and the movie-name with your media
 
-     hubot **is movie** < movie  or tvshow name >
+  ex: hubot **is it a** movie iron man 3
 
-     hubot **which movie** < movie or tvshow name >
+  hubot **search** <movie or tvshow  name>
 
-     hubot **which tvshow** < movie or tvshow name >
+  hubot **search** movie < movie or tvshow name >
+
+  hubot **is it a movie** < movie  or tvshow name >
+
+  hubot **is movie** < movie  or tvshow name >
+
+  hubot **which movie** < movie or tvshow name >
+
+  hubot **which tvshow** < movie or tvshow name >
 
    French :
 
-     hubot **quel film** < movie name >
+  hubot **quel film** < movie name >
 
-     hubot **quel série** < movie name >
+  hubot **quel série** < movie name >
 
-     hubot **quel serie** < movie name >
+  hubot **quel serie** < movie name >
 
    Arabic :
 
-     hubot فيلم < movie name >
+  hubot فيلم < movie name >
 
 ### Heroku
  None
