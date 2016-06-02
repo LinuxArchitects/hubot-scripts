@@ -3,19 +3,19 @@
 ## Description
 
 
-    /                             \
-    //\              |      Extracting input for    |
-    ////\    _____    |   self-replication process   |
-    //////\  /_____\   \                             / 
-    ======= |[^_/\_]|   /----------------------------  
-    |   | _|___@@__|__                                
-    +===+/  ///     \_\                               
-    | |_\ /// HUBOT/\\                             
-    |___/\//      /  \\                            
-    \      /   +---+                            
-    \____/    |   |                            
-    | //|    +===+                            
-    \//      |xx|  
+                            /                            \
+    //\                    |      Extracting input for    |
+    ////\        _____     |   self-replication process   |
+    //////\     /_____\    \                             / 
+    =======    |[^_/\_]|   /----------------------------  
+    |   |     _|___@@__|__                                
+    +===+/     ///     \_\                               
+    | |_\     /// HUBOT/\\                             
+    |___/\   //      /  \\                            
+    \       /   +---+                            
+    \___  _/    |   |                            
+    | //   |    +===+                            
+    \//         |xx|  
 
 
 This is the [OMDB](http://www.omdbapi.com) adapter for hubot that allows you to
