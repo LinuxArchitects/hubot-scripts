@@ -10,6 +10,7 @@
 # Commands:
 #   English :
 # ex  hubot is it a movie iron-man-3
+# ex  hubot is it a movie iron man 3
 #     hubot search < movie or tvshow  name >
 #     hubot search movie < movie or tvshow name >
 #     hubot is it a movie < movie  or tvshow name >
@@ -27,7 +28,7 @@
 
 # export Module
 module.exports = (robot) ->
-  robot.respond /\s?([Ss]earch|quel|which|is|is\sit|hada)?\s?a?\s?(search|movie|فيلم|file?m|cin[ée]ma|s[eé]rie|show|(tv)show)\s?(.*)$/i, (msg) ->
+  robot.respond /\s?([Ss]earch|quel|which|is|is\sit|hada)?\s?a?\s?(search|movie|فيلم|file?m|cin[ée]ma|s[eé]rie|show|(tv)show)\s?([A-Za-z0-9\s]*)$/i, (msg) ->
     find_Media = msg.match[4]
     msg.http("http://www.omdbapi.com/?r=json&t=#{find_Media}")
       .get() (err, res, body) ->
