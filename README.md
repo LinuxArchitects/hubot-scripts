@@ -13,7 +13,7 @@ send an query to search for a movie of tvshow information.
 None
 ## Usage
    English :
- replace hubot with the name of yout bot and the <> with the media you\'re looking for
+ replace hubot with the name of yout bot and the movie-name with your media
  ex  hubot is it a movie iron-man-3
      hubot search < movie or tvshow  name >
      hubot search movie < movie or tvshow name >
