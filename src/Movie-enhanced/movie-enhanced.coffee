@@ -1,9 +1,7 @@
 # Description:
-#
-#
+# This is the [OMDB](http://www.omdbapi.com) adapter for hubot that allows you to send an query to search for a movie of tvshow information.
 # Dependencies:
-#   None
-#
+#  None
 # Configuration:
 #  None
 #
@@ -23,7 +21,7 @@
 #   Arabic :
 #     hubot فيلم < movie name >
 # Author:
-#   Linux Architect
+#   Abdelilah Heddar
 
 # export Module
 module.exports = (robot) ->
@@ -47,8 +45,8 @@ module.exports = (robot) ->
             \n  Plot #{json.Plot}
             \n  Lang : #{json.Language}
             \n  Country : #{json.Country}
-            \n  Awards : #{json.Awards} 
-            \n  Poster : #{json.Poster} 
+            \n  Awards : #{json.Awards}
+            \n  Poster : #{json.Poster}
             \n  Metascore : #{json.Metascore}
             \n  ImdbRating : #{json.imdbRating}
             \n  ImdbVotes : #{json.imdbVotes}
