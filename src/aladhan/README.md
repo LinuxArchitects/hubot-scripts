@@ -30,19 +30,19 @@ send an query about prier time
   No API KEY required
 ## Commands:
   feel free to write adan as you whish
- ex:
-   English:
-     hubot search (adhan Or athan Or adan Or ladan)  in Paris France
-     hubot (adhan Or athan Or adan Or ladan) Paris France
-     hubot search (adhan Or athan Or adan Or ladan) Dubai AE
-     hubot search in Dubai AE
-   Arabic :
-     hubot ﺍﺫﺎﻧ Paris France
-   French :
-     hubot horaire(s) de (prieres or prière(s) Or priére(s) ) Rabat Morocco
+  ex:
+###  English:
+  hubot search (adhan Or athan Or adan Or ladan)  in Paris France
+  hubot (adhan Or athan Or adan Or ladan) Paris France
+  hubot search (adhan Or athan Or adan Or ladan) Dubai AE
+  hubot search in Dubai AE
+###  Arabic :
+  hubot ﺍﺫﺎﻧ Paris France
+###  French :
+  hubot horaire(s) de (prieres or prière(s) Or priére(s) ) Rabat Morocco
 ## Author:
    Abdelilah Heddar
-
+   
 ## Contribute
 
 Just send pull request if needed or fill an issue !
