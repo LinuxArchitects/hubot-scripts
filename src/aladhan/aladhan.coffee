@@ -44,5 +44,5 @@ module.exports = (robot) ->
             \n Isha    : #{json.data.timings.Isha}
             \n\nsource :api.aladhan.com"
           else
-            # No response if not found you can | you can change this behavour to sweets your need
+            # No response if not found | you can change this behavour to sweets your need
             msg.send "#{json.data}"
