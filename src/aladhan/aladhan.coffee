@@ -26,7 +26,7 @@
 
 # export Module
 module.exports = (robot) ->
-  robot.respond /\s?(search|horaire(s)?)?\s?([aA][dt]han|adan|اذان|pri[eéè]re(s)?)\s?(in|f|a|à)?\s?([A-Za-z]*)\s*([A-Za-z]*)$/i, (msg) ->
+  robot.respond /\s?(search|horaire(s)?)?\s?([aA][dt]han|adan|اذان|pri[eéè]re(s)?)\s?(in|f|a|à)?\s?([A-Za-z\-]*)\s*([A-Za-z]*)$/i, (msg) ->
     find_adhan_city = msg.match[6]
     find_adhan_country = msg.match[7]
     msg.http("http://api.aladhan.com/timingsByCity?city=#{find_adhan_city}&country=#{find_adhan_country}&method=2")
