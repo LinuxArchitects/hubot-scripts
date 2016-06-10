@@ -43,6 +43,6 @@ module.exports = (robot) ->
             \n Maghrib : #{json.data.timings.Maghrib}
             \n Isha    : #{json.data.timings.Isha}
             \n\nsource :api.aladhan.com"
-          when 400
+          else
             # No response if not found you can | you can change this behavour to sweets your need
             msg.send "#{json.data}"
