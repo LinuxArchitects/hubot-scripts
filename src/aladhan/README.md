@@ -32,7 +32,8 @@ send an query about prier time
   feel free to write adan as you whish
   ex:
 ###  English:
-  hubot search (adhan Or athan Or adan Or ladan)  in Paris France
+  hubot search adhan in Paris France
+  hubot (adhan Or athan Or adan Or ladan)  in Paris France
   hubot (adhan Or athan Or adan Or ladan) Paris France
   hubot search (adhan Or athan Or adan Or ladan) Dubai AE
   hubot search in Dubai AE
@@ -42,7 +43,7 @@ send an query about prier time
   hubot horaire(s) de (prieres or prière(s) Or priére(s) ) Rabat Morocco
 ## Author:
    Abdelilah Heddar
-   
+
 ## Contribute
 
 Just send pull request if needed or fill an issue !
