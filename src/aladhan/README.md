@@ -21,7 +21,7 @@ This is [Aladhan](http://api.aladhan.com) adapter for hubot that allows you to
 send an query about prier time
 ## Example
   jarvis\> jarvis Athan malaga ES
-   
+
   Athan time in malaga            
   Fajr    : 05:29            
   Sunrise : 06:58            
@@ -45,11 +45,13 @@ source :api.aladhan.com
   feel free to write adan as you whish
   ex:
 ###  English:
+
   hubot search adhan in Paris France
   hubot (adhan Or athan Or adan Or ladan)  in Paris France
   hubot (adhan Or athan Or adan Or ladan) Paris France
   hubot search (adhan Or athan Or adan Or ladan) Dubai AE
   hubot search in Dubai AE
+
 ###  Arabic :
   hubot ﺍﺫﺎﻧ Paris France
 ###  French :
