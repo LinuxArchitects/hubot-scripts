@@ -19,7 +19,6 @@
 
 
 This is the [OMDB](http://www.omdbapi.com) adapter for hubot that allows you to  
-
 send an query to search for a movie of tvshow information.
 
 ## Installation
