@@ -31,31 +31,24 @@ send an query to search for a movie of tvshow information.
   replace hubot with the name of yout bot and the movie-name with your media
 
   ex: hubot **is it a** movie iron man 3
-
+```bash
   hubot **search** <movie or tvshow  name>
-
   hubot **search** movie < movie or tvshow name >
-
   hubot **is it a movie** < movie  or tvshow name >
-
   hubot **is movie** < movie  or tvshow name >
-
   hubot **which movie** < movie or tvshow name >
-
   hubot **which tvshow** < movie or tvshow name >
-
+```
    French :
-
+```bash
   hubot **quel film** < movie name >
-
   hubot **quel série** < movie name >
-
   hubot **quel serie** < movie name >
-
+```
    Arabic :
-
+```bash
   hubot فيلم < movie name >
-
+```
 ### Heroku
  None
 ### Non-Heroku environment variables

@@ -31,9 +31,9 @@ send an query about prier time
   Sunset  : 21:36            
   Maghrib : 21:36            
   Isha    : 23:05            
-```
-source :api.aladhan.com
 
+source :api.aladhan.com
+```
 ## Installation
   Nothing to install
 
@@ -54,9 +54,13 @@ source :api.aladhan.com
   hubot search in Dubai AE
 ```
 ###  Arabic :
+```bash
   hubot ﺍﺫﺎﻧ Paris France
+```
 ###  French :
+```bash
   hubot horaire(s) de (prieres or prière(s) Or priére(s) ) Rabat Morocco
+```
 ## Author:
    Abdelilah Heddar
 
