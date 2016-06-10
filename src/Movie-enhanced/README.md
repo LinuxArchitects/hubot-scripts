@@ -26,11 +26,40 @@ send an query to search for a movie of tvshow information.
 ### Note if running on Heroku
   None
 ## Usage
-  English :
 
-  replace hubot with the name of yout bot and the movie-name with your media
+  Replace hubot with the name of yout bot and the movie-name with your media
 
   ex: hubot **is it a** movie iron man 3
+```bash
+  jarvis> jarvis is it a movie iron man 3
+  jarvis>
+
+    movie in Action, Adventure, Sci-Fi registry, Realeased in 03 May 2013 writed by Drew Pearce (screenplay), Shane Black (screenplay), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the "Extremis" mini-series written by), Adi Granov (based on the "Extremis" mini-series illustrated by), Main actors : Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce
+
+    Title : Iron Man 3            
+    Year: 2013             
+    Rated : PG-13            
+    Released : 03 May 2013            
+    Runtime: 130 min            
+    Genre : Action, Adventure, Sci-Fi             
+    Director : Shane Black             
+    Writer : Drew Pearce (screenplay), Shane Black (screenplay), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the "Extremis" mini-series written by), Adi Granov (based on the "Extremis" mini-series illustrated by)            
+    Actors: Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce            
+    Plot When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.            
+    Lang : English            
+    Country : USA, China            
+    Awards : Nominated for 1 Oscar. Another 17 wins & 52 nominations.             
+    Poster : http://ia.media-imdb.com/images/M/MV5BMTkzMjEzMjY1M15BMl5BanBnXkFtZTcwNTMxOTYyOQ@@._V1_SX300.jpg             
+    Metascore : 62            
+    ImdbRating : 7.3            
+    ImdbVotes : 543,536            
+    ImdbID : tt1300854            
+    Type : movie            
+    Response : True  
+              
+  source :www.ombdapi.com
+```
+English :
 ```bash
   hubot **search** <movie or tvshow  name>
   hubot **search** movie < movie or tvshow name >
