@@ -18,7 +18,8 @@
     \//         |xx|  
 
 
-This is the [OMDB](http://www.omdbapi.com) adapter for hubot that allows you to
+This is the [OMDB](http://www.omdbapi.com) adapter for hubot that allows you to  
+
 send an query to search for a movie of tvshow information.
 
 ## Installation
@@ -56,7 +57,7 @@ send an query to search for a movie of tvshow information.
     ImdbID : tt1300854            
     Type : movie            
     Response : True  
-              
+
   source :www.ombdapi.com
 ```
 English :
