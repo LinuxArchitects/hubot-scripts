@@ -20,10 +20,8 @@
 This is [Aladhan](http://api.aladhan.com) adapter for hubot that allows you to
 send an query about prier time
 ## Example
-  jarvis> jarvis  Athan malaga ES
-
-  jarvis
-
+  jarvis\> jarvis Athan malaga ES
+  jarvis\>
   Athan time in malaga            
   Fajr    : 05:29            
   Sunrise : 06:58            
