@@ -25,8 +25,8 @@ This is a fork from shellcmd pluging enchanced by adding a simple nmap scan
 
 ## Usage
 ```bash
- jarvis> jarvis  search 8.8.4.4
- jarvis> Looking up 8.8.4.4...
+ hubot> hubot  search 8.8.4.4
+ hubot> Looking up 8.8.4.4...
  This is the command host 8.8.4.4.
  scan for open ports 8.8.4.4...
  This is the command nmap 8.8.4.4.
