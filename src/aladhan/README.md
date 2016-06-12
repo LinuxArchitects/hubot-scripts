@@ -21,9 +21,9 @@ This is [Aladhan](http://api.aladhan.com) adapter for hubot that allows you to
 send an query about prier time
 ## Example
 ```bash
-  Hubot> hubot Athan fajer in Poissy FR
+  Hubot> hubot Athan fajer in Paris FR
   Hubot>
-  Athan fajer in Poissy at 03:23           
+  Athan fajer in Paris at 03:23           
 
 source :api.aladhan.com
 ```
@@ -54,7 +54,8 @@ source :api.aladhan.com
   ex:
 ###  English:
 ```bash
-  Hubot Athan fajer in Poissy FR
+  Hubot Athan Fajr in Paris FR
+  Hubot Athan fajer Paris FR
   hubot search adhan in Paris France
   hubot (adhan Or athan Or adan Or ladan)  in Paris France
   hubot (adhan Or athan Or adan Or ladan) Paris France
