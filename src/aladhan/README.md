@@ -21,6 +21,13 @@ This is [Aladhan](http://api.aladhan.com) adapter for hubot that allows you to
 send an query about prier time
 ## Example
 ```bash
+  jarvis> jarvis  Athan fajer in Poissy FR
+  jarvis>
+  Athan fajer in carriere-sous-poissy at 03:23           
+
+source :api.aladhan.com
+```
+```bash
   jarvis> jarvis Athan malaga ES
   jarvis>
   Athan time in malaga            
