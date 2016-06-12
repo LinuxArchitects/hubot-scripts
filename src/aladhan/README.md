@@ -70,6 +70,9 @@ source :api.aladhan.com
 ```bash
   hubot horaire(s) de (prieres or prière(s) Or priére(s) ) Rabat Morocco
 ```
+#### Note
+  If Hubot didn't catch the right specified salat it will print the full salat day time
+
 ## Author:
    Abdelilah Heddar
 
