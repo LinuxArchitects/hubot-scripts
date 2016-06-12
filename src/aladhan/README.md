@@ -23,7 +23,7 @@ send an query about prier time
 ```bash
   jarvis> jarvis  Athan fajer in Poissy FR
   jarvis>
-  Athan fajer in carriere-sous-poissy at 03:23           
+  Athan fajer in Poissy at 03:23           
 
 source :api.aladhan.com
 ```
