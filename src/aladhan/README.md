@@ -2,6 +2,11 @@
 
 ## Description
 
+This is [Aladhan](http://api.aladhan.com) adapter for hubot that allows you to
+send an query about prier time
+
+```bash
+
                             /                            \
     //\                    |      Ramhoum zado sa3A       |
     ////\        _____     |                              |
@@ -16,9 +21,7 @@
     | //   |    +===+                            
     \//         |xx|  
 
-
-This is [Aladhan](http://api.aladhan.com) adapter for hubot that allows you to
-send an query about prier time
+```
 ## Example
 ```bash
   Hubot> hubot Athan fajer in Paris FR
