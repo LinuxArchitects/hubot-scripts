@@ -2,6 +2,7 @@
 
 ## Description
 
+Adapter to get muslim prayer time.
 This is [Aladhan](http://api.aladhan.com) adapter for hubot that allows you to
 send an query about prier time
 
