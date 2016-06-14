@@ -21,6 +21,7 @@ send an query about prier time
     \//         |xx|  
 
 ```
+
 ## Example
 ```bash
   Hubot> hubot Athan fajer in Paris FR
