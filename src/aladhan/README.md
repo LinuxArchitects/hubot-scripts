@@ -6,7 +6,6 @@ This is [Aladhan](http://api.aladhan.com) adapter for hubot that allows you to
 send an query about prier time
 
 ```bash
-
                             /                            \
     //\                    |      Ramhoum zado sa3A       |
     ////\        _____     |                              |
